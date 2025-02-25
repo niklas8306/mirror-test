@@ -1,2 +1,3 @@
 # mirror-test
-Test eines Mirrors von Github -> openCode
+
+Test eines Mirrors: openCode-GitLab -> Github
